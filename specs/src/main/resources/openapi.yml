@@ -23,4 +23,4 @@ components:
       properties:
         message:
           type: string
-          example: "Hello from Alpha-Bank!"
+          example: "Hello World!"
